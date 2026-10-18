@@ -1,0 +1,26 @@
+# Arquivos de compiação
+*.dcu
+*.exe
+*.map
+*.tds
+*.rsm
+
+# Diretório gerados peo compilador
+Win32/
+Win64/
+
+# Arquivos locais de Delphi
+*.dproj.local
+*.identcache
+*.dsk
+*.stat
+
+# Histórico e backups automaticos
+__history
+__recovery
+*.~*
+
+# Configurações privadas
+.env
+config/conexao.ini
+
